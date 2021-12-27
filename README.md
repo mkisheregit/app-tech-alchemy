@@ -10,3 +10,11 @@ You should have installed and ready to use apps :
 ### [Mongoshell](https://www.mongodb.com/try/download/shell).
 ### MongoDB GUI like [Robo3T](https://www.mongodb.com/try/download/shell).
 
+# Steps For Project Setups
+```
+##### 1. Open Project in Code editer.
+##### 2. Open Command line and go to project.
+##### 3. run following commands :
+
+```
+
