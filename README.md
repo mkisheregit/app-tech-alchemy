@@ -53,7 +53,7 @@ request body must have 2 parameters
 
 It will give two tokens on success.
 1. accessToken  (You have to use Access token in order to  get access of authenticated urls.
-                  it will be invalid/expired after 1 minutes of login)
+                  it will be invalid/expired after 2 minutes of login)
 2. refreshToken  (You have to use Refresh token in order to  regenerate access token after accessToken is expired)
 ```
 ##### http://localhost:3000/auth/logout
