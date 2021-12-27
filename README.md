@@ -58,7 +58,7 @@ It will give two tokens on success.
 ```
 ##### http://localhost:3000/auth/logout
 ```
-This is GET request.
+This is DELETE request.
 This will make user log out and so user can't use refreshToken to generate accessToken again
 ```
 ##### http://localhost:3000/news
