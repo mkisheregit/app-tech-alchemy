@@ -1,6 +1,6 @@
-# What is App-tech-alchemy?
+# What is Weather-info?
 ```
-App-tech-alchemy gives news and weather information in json format.
+Weather-info gives news and weather information in json format.
 It fetches data from certain websites and show.
 ```
 # Prerequisites
